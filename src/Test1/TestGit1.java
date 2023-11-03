@@ -9,5 +9,7 @@ public class TestGit1 {
         System.out.println("Test3");
         System.out.println("Test4");
         System.out.println("Test5");
+        System.out.println("Test66666666666666666666666666666");
+        System.out.println("Local practice on intellij");
     }
 }
